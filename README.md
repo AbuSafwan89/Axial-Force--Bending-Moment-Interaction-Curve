@@ -1,1 +1,0 @@
-# Axial-Force--Bending-Moment-Interaction-Curve
